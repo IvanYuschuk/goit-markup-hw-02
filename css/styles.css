@@ -19,20 +19,26 @@
     color: #2E2F42;
     font-weight: bold;
     font-size: 36px;
-    line-height: 1.2;
     letter-spacing: 0.02em;
     text-align: center;
 }
+.skils .header-two {
+    line-height: 1.2;
+}
+.portfolio .header-two,
 .team .header-two {
     line-height: 1.11;
+    text-transform: capitalize;
 }
 .header-three {
     color: #2E2F42;
     font-weight: 500;
-    line-height: 1.11;
     font-size: 20px;
     letter-spacing: 0.02em;
-    text-transform: capitalize;
+}
+.portfolio .list .header-three,
+.team .list .header-three {
+    line-height: 1.2;
 }
 .link {
     color: #434455;
