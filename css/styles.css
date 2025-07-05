@@ -35,11 +35,10 @@
     font-weight: 500;
     font-size: 20px;
     letter-spacing: 0.02em;
-}
-.portfolio .list .header-three,
-.team .list .header-three {
     line-height: 1.2;
 }
+
+
 .link {
     color: #434455;
     font-size: 12px;
