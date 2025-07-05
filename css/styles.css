@@ -1,0 +1,109 @@
+/* general h1 h2 h3 body list link logo */
+.site {
+    background-color: white;
+    color: #434455;
+    font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 2%;
+}
+.header-one {
+    font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    font-size: 56px;
+    line-height: 1.071;
+    letter-spacing: 2%;
+    text-align: center;
+}
+.header-two {
+    color: #2E2F42;
+    font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    font-size: 36px;
+    letter-spacing: 2%;
+    text-align: center;
+}
+.header-three {
+    color: #2E2F42;
+    font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: medium;
+    font-size: 20px;
+    letter-spacing: 2%;
+}
+.link {
+    color: #434455;
+    font-size: 12px;
+    line-height: 1.333;
+    letter-spacing: 4%;
+    text-decoration: none;
+}
+.list {
+    list-style-type: none;
+}
+
+.logo {
+    color: #4D5AE5;
+    font-family: Raleway, sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 1.167;
+    letter-spacing: 3%;
+    text-decoration: none;
+}
+.site .top-line .menu .logo .top-logo {
+    color: #2E2F42;
+}
+.site .down-line .logo .down-logo {
+    color: #F4F4FD;
+}
+.button-text {
+    font-weight: medium;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 4%;
+}
+/* top-line*/
+.site .top-line .menu .list .link .medium-text {
+    color: #2E2F42;
+    font-size: 16px;
+    font-weight: medium;
+    line-height: 1.5;
+    letter-spacing: 2%;
+}
+.site .top-line .conect .list .link:hover,
+.site .top-line .menu .list .link .medium-text:hover {
+    color: #404BBF;
+}
+/*service*/
+.site .site-inform .service {
+    background-color: #2E2F42;
+    color: white;
+}
+.site .site-inform .service .button-text {
+    background-color: #4D5AE5;
+    color: white;
+    font-weight: medium;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 4%;
+}
+.site .site-inform .service .button-text:hover {
+    background-color: #404BBF;
+}
+/*team*/
+.site .site-inform .team {
+    background-color: #F4F4FD;
+}
+.site .site-inform .team .list .card {
+    background-color: white;
+}
+/*down-line*/
+.site .down-line {
+    background-color: #2E2F42;
+    color: #F4F4FD;
+}
+
+
+
+
+
